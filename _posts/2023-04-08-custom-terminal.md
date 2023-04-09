@@ -10,7 +10,7 @@ To have a user-friendly terminal, we need to use software that help us with this
 
 #### Fonts
 
-To see icons on our terminal with need to use a compatible font, for this porpuse you can use HackNerdFont, to download this font just [click here](https://about:blank), then unzip it to system folder fonts.
+To see icons on our terminal with need to use a compatible font, for this porpuse you can use HackNerdFont, to download this font just [click here](https://aboutblank), then unzip it to system folder fonts.
 
 ```shell
 sudo mkdir /usr/share/fonts/HackNerdFont
